@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the capital of India?",
+    "options": ["Mumbai", "Delhi", "Kolkata", "Chennai"],
+    "answer": "Delhi"
+  },
+  {
+    "question": "Which programming language is known as the 'language of the web'?",
+    "options": ["Python", "JavaScript", "Java", "C++"],
+    "answer": "JavaScript"
+  },
+  {
+    "question": "What does HTML stand for?",
+    "options": ["Hyper Text Markup Language", "High Tech Modern Language", "Hyper Transfer Markup Logic", "Hybrid Text Making Language"],
+    "answer": "Hyper Text Markup Language"
+  },
+  {
+    "question": "Which framework is used in this quiz application?",
+    "options": ["Django", "Flask", "FastAPI", "Express"],
+    "answer": "Flask"
+  },
+  {
+    "question": "What is the purpose of CSS in web development?",
+    "options": ["Server-side scripting", "Database management", "Styling and design", "Backend logic"],
+    "answer": "Styling and design"
+  }
+]
